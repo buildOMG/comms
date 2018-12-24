@@ -1,5 +1,5 @@
 ---
-name: Community Update - MONTH, 2019
+name: Community Update 0 - MONTH, 2019
 about: Template for Community Updates
 title: Community Update 0 - MONTH, 2019
 labels: good first issue
