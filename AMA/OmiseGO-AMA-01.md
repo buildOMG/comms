@@ -164,9 +164,9 @@ No, transactions will come from many places including but not limited to provide
 
 ***
 
-**What will the marketing strategy look like for both OMG and the Cosmos token once they are live?`
+**What will the marketing strategy look like for both OMG and the Cosmos token once they are live?`**
 
-Marketing is delivery. Both teams will race to build the best most robust and scalable decentralized exchange each team can in order to support rapidly growing demand. Low cost, high functionality, correct construction, and easy access are the best mechanisms for success; they’re more powerful than partnerships with centralized entities**
+Marketing is delivery. Both teams will race to build the best most robust and scalable decentralized exchange each team can in order to support rapidly growing demand. Low cost, high functionality, correct construction, and easy access are the best mechanisms for success; they’re more powerful than partnerships with centralized entities
 
 ***
 
@@ -232,9 +232,7 @@ OmiseGO is collaborating on Plasma research to build the optimal scaling archite
 
 ***
 
-**The background: I read recently that you were focusing first on crypto to crypto transactions, whether that was with the DEX or not. I understand how crypto is fundamental for this project, via the technology, and the first users - us. But the project’s goal always seemed to focus on real world wider application, not just the crypto world. It was always this wider world application that excited me about OmiseGo.
-
-The question: So, how do you plan on going from a specific focus of the crypto world, to a great and useful product for the wider “not crypto” (FIAT) world that you always mention in your slogan “unbanked the banked”?**
+**The background: I read recently that you were focusing first on crypto to crypto transactions, whether that was with the DEX or not. I understand how crypto is fundamental for this project, via the technology, and the first users - us. But the project’s goal always seemed to focus on real world wider application, not just the crypto world. It was always this wider world application that excited me about OmiseGo. The question: So, how do you plan on going from a specific focus of the crypto world, to a great and useful product for the wider “not crypto” (FIAT) world that you always mention in your slogan “unbanked the banked”?**
 
 The key to enabling widespread adoption of the OMG Network and cryptocurrencies is providing cash-in/cash-out services so individuals can top-up digital wallets via cash agents, such as merchants, as well as withdraw funds in whatever currency is most useful to them.
 
@@ -324,9 +322,7 @@ The only competition is who can provide the best and most fair and desirable fin
 
 ***
 
-**I understand that OMG and Tendermint have been working together - but how does having two DEX's help in any way? Will the wallet SDK connect to the Tendermint DEX as well? Won't the Tendermint DEX suck liquidity from the OMG one, and vice versa?
-
-My question is, what is the advantage (to anyone) of duplicating a DEX on tendermint, or is it just for the hell of it?**
+**I understand that OMG and Tendermint have been working together - but how does having two DEX's help in any way? Will the wallet SDK connect to the Tendermint DEX as well? Won't the Tendermint DEX suck liquidity from the OMG one, and vice versa? My question is, what is the advantage (to anyone) of duplicating a DEX on tendermint, or is it just for the hell of it?**
 
 More DEXes means more optionality for users, and competition spurs innovation - even more so in an open source environment where both progress and failures are stored in the memory of the commons. We are actively exploring support for both exchanges in the wallet SDK. All exchanges want to eat up as much liquidity as possible; ours will be no different.
 
@@ -387,13 +383,7 @@ OmiseGO is collaborating with different projects in the blockchain space to buil
 
 Once the OMG Network is live, OmiseGO will stake OMG to uphold the network’s proof-of-stake consensus.
 
-**Hey champs, I really dig your beautiful team. I love that you're integrating everyone, guys and gals, and giving opportunities to those that deserve them.
-
-Question regarding Omise technically, post integration. Do you have plans to disrupt the rabbit card and BTS in BKK? At least 1.3million trips per day, entering and then exiting(1.3m x2?). Identity data would be great here too.
-
-Remember that rabbit card is used like a debit card around Sukhumvit as well!
-
-I would love to see this. Thanks!**
+**Hey champs, I really dig your beautiful team. I love that you're integrating everyone, guys and gals, and giving opportunities to those that deserve them. Question regarding Omise technically, post integration. Do you have plans to disrupt the rabbit card and BTS in BKK? At least 1.3million trips per day, entering and then exiting(1.3m x2?). Identity data would be great here too. Remember that rabbit card is used like a debit card around Sukhumvit as well! I would love to see this. Thanks!**
 
 Thanks, we love our beautiful team too. In response to your question, we are researching how OmiseGO can support various use cases… such as transportation! We will continue to engage with potential future partners to process transactions on the OMG Network.
 
@@ -609,11 +599,7 @@ We can’t give a number yet but staking pools will make this an unnecessary con
 
 ***
 
-**"However, profits from fees during the PoA phase will be used to buy OMG tokens which will then be burned (permanently removed from circulation, resulting in a decrease in total supply)."
-
-A question regarding the above quote from the Roadmap;
-
-This seems implies that profits from fees are not OMG tokens but other type of assets. My question would be if profits are having various types if does what would be a practical example?**
+**However, profits from fees during the PoA phase will be used to buy OMG tokens which will then be burned (permanently removed from circulation, resulting in a decrease in total supply)." A question regarding the above quote from the Roadmap; This seems implies that profits from fees are not OMG tokens but other type of assets. My question would be if profits are having various types if does what would be a practical example?**
 
 OMG token holders will use their tokens to stake to validate the network via proof-of-stake consensus. These validators will be rewarded for their staking and can receive fees in any currency they choose. This means that if validators would like to be paid in OMG tokens, they can; if they would like to be paid in DAI, they can; if they would like to be paid in Dogecoin, they can. We remain currency-agnostic.
 
