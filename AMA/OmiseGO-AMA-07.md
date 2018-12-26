@@ -1,6 +1,6 @@
-# OmiseGO AMA #7
+# OmiseGO AMA 07
 
-**[OmiseGO AMA #7 - November 23, 2018](https://www.reddit.com/r/omise_go/comments/9zuwfc/omisego_ama_7_november_23_2018/)**
+**[OmiseGO AMA 07 - November 23, 2018](https://www.reddit.com/r/omise_go/comments/9zuwfc/omisego_ama_7_november_23_2018/)**
 
 ***
 

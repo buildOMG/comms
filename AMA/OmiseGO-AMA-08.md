@@ -1,6 +1,6 @@
-# OmiseGO AMA #8
+# OmiseGO AMA 08
 
-**[OmiseGO AMA #8 - November 30, 2018](https://www.reddit.com/r/omise_go/comments/a1yzns/omisego_ama_8_november_30_2018/)**
+**[OmiseGO AMA 08 - November 30, 2018](https://www.reddit.com/r/omise_go/comments/a1yzns/omisego_ama_8_november_30_2018/)**
 
 ***
 

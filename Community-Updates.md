@@ -1,0 +1,5 @@
+* [OmiseGO Community Update 01 - July 2018](https://github.com/buildOMG/comms/wiki/Community-Update-01)
+* [OmiseGO Community Update 02 - August 2018](https://github.com/buildOMG/comms/wiki/Community-Update-02)
+* [OmiseGO Community Update 03 - September 2018](https://github.com/buildOMG/comms/wiki/Community-Update-03)
+* [OmiseGO Community Update 04 - October 2018](https://github.com/buildOMG/comms/wiki/Community-Update-04)
+* [OmiseGO Community Update 05 - November 2018](https://github.com/buildOMG/comms/wiki/Community-Update-05)

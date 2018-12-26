@@ -1,6 +1,6 @@
-# OmiseGO AMA #4
+# OmiseGO AMA 04
 
-**[OmiseGO AMA #4 - November 5, 2018](https://www.reddit.com/r/omise_go/comments/9ubemn/omisego_ama_4_november_5_2018/)**
+**[OmiseGO AMA 04 - November 5, 2018](https://www.reddit.com/r/omise_go/comments/9ubemn/omisego_ama_4_november_5_2018/)**
 
 ***
 

@@ -1,6 +1,6 @@
-# OmiseGO AMA #6
+# OmiseGO AMA 06
 
-**[OmiseGO AMA #6 - November 18, 2018](https://www.reddit.com/r/omise_go/comments/9y464i/omisego_ama_6_november_18_2018/)**
+**[OmiseGO AMA 06 - November 18, 2018](https://www.reddit.com/r/omise_go/comments/9y464i/omisego_ama_6_november_18_2018/)**
 
 ***
 

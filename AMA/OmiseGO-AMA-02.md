@@ -1,6 +1,6 @@
-# OmiseGO AMA #2
+# OmiseGO AMA 02
 
-**[OmiseGO AMA #2 - October 22, 2018](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/)**
+**[OmiseGO AMA 02 - October 22, 2018](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/)**
 
 ***
 

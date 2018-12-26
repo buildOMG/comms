@@ -1,6 +1,6 @@
-# OmiseGO AMA #10
+# OmiseGO AMA 10
 
-**[OmiseGO AMA #10 - December 14, 2018](https://www.reddit.com/r/omise_go/comments/a6cpcw/omisego_ama_10_december_14_2018/)**
+**[OmiseGO AMA 10 - December 14, 2018](https://www.reddit.com/r/omise_go/comments/a6cpcw/omisego_ama_10_december_14_2018/)**
 
 ***
 
