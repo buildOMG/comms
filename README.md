@@ -5,4 +5,4 @@ This wiki is maintained by the build.OMG team. If you are new to OMG, you're als
 * [OmiseGO AMAs](https://github.com/buildOMG/comms/wiki/ama)
 * [OmiseGO eWallet Updates](https://github.com/buildOMG/comms/wiki/ewallet-updates)
 * [OmiseGO Plasma Updates](https://github.com/buildOMG/comms/wiki/plasma-updates)
-* [OmiseGO Community Updates](https://github.com/buildOMG/comms/wiki/community-updates
+* [OmiseGO Community Updates](https://github.com/buildOMG/comms/wiki/community-updates)
