@@ -1,8 +1,3 @@
-- [x] Replace english content below with CN translation;
-- [x] Send translation to community manager.
-
-***
-
 # Plasma 技术进展更新 11
 **[Plasma 技术进展更新 11 - 2019年1月14日](https://www.reddit.com/r/omise_go/comments/ag5btg/plasma_update_11_january_4_2019/)**
 
