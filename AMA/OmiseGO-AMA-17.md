@@ -14,7 +14,7 @@ True Money, Alipay and Line aren't really competitors to OMG; they're the kinds 
 
 It's really too early to give any answer about this, although we agree it's important and we're certainly interested to see how staking pool research develops across the space over the coming months and years.
 
-**Just using [this](https://medium.com/tokyo-fintech/rakuten-pay-app-gets-a-facelift-bfa16d35550f) as an example as it's quite alinged, not suggesting an affiliation. As it stands, could the eWallet suite be used to build an app like this? Allowing them (Rakuten in this case) to use all their existing payment channels, and manage their rewards points, etc, but with the option to utilise the OMG Network (to whatever degree they choose) when it goes live?**
+**Just using [this](https://medium.com/tokyo-fintech/rakuten-pay-app-gets-a-facelift-bfa16d35550f) as an example as it's quite aligned, not suggesting an affiliation. As it stands, could the eWallet suite be used to build an app like this? Allowing them (Rakuten in this case) to use all their existing payment channels, and manage their rewards points, etc, but with the option to utilise the OMG Network (to whatever degree they choose) when it goes live?**
 > 
 Yep! In the case of Rakuten or a similarly developed platform that would probably mean using the APIs or integration libraries rather than building out a full app using the eWallet suite. But as you said, the goal is to give potential implementers the optionality to use as much or as little of that tooling as they need in order to take advantage of OMG's capabilities.
 
