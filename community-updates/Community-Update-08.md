@@ -1,3 +1,5 @@
+![Community Update February 2019](https://downloads.intercomcdn.com/i/o/112244941/e51e954f86c9cf56f6112498/1%2AmQh_s8Ii0O2rdkp3WPnF9Q.png)
+
 **Alpha release (Ari)**
 
 In February, we debuted our Alpha release (Ari) at [ETH Denver](https://www.ethdenver.com/). Ari is the conclusion of the current stage in our development cycle. It is the point in which we’ve become ready to start using our Plasma MoreVP implementation on a public Ethereum network with users.
@@ -41,6 +43,8 @@ And finally, we have worked on finalizing the scope and tasks for eWallet versio
 For more details on what the team worked on in February, check out eWallet Updates [#17](https://www.reddit.com/r/omise_go/comments/an5uzh/ewallet_update_february_04_2019_the_is_that_your/) and [#18](https://www.reddit.com/r/omise_go/comments/as8yn1/ewallet_update_february_18_2019_the_were_vikings/)
 
 **Mobile Money and Financial Inclusion Feb 26–27 2019**
+
+![Mobile Money and Financial Inclusion](https://downloads.intercomcdn.com/i/o/112244942/61246650c056805755f1734f/1%2AkmIBggJAQ0txSXAdYhNcYA.jpeg)
 
 OmiseGO’s Business Development Team presented the next generation financial services for mobile money to better serve end-users in Myanmar. Photo credit: ©Magenta Global Events
 
