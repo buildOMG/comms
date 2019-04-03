@@ -1,0 +1,4 @@
+The past two weeks we’ve been helping developers on board to our alpha release network Ari through the [Open Developer Program (ODP)](https://blog.omisego.network/get-with-the-program-7206576af6cc), and the response so far has been great. Several hundred developers have signed up to get early access to test our services. We’ve been helping people deposit ETH and tokens, make transactions, and exit back to Ethereum. We look forward to welcoming more!
+
+During the operation of Ari we encountered a bug with our connectivity to Ethereum. We’ve implemented a work around that allows the services to continue operating normally, and we continue to monitor how this performs. We’re collecting data so we can make informed decisions that contribute towards a good level of service reliability. After developer testing we’ve updated our smart contracts and elixir-omg services to better support in flight exits via emit(). This implements more security to better protect our users.
+
