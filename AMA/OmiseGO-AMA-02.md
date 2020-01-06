@@ -36,6 +36,6 @@ We understand that the PoS aspect of OMG is of interest to a lot of people, and 
 
 ***
 
-###**Cash in/out. -- Jeremy blogged in december 2017 about the Cash in/out aspect of the project: What is the status on this?**
+### **Cash in/out. -- Jeremy blogged in december 2017 about the Cash in/out aspect of the project: What is the status on this?**
 
 Still in the pipeline but unfortunately nothing we can report. We’re most focused on getting Plasma up and running and eWallet integrated to Ethereum and Plasma, prioritizing work that facilitates volume and liquidity so we can have a healthy functioning market (which doesn’t mean that our business development team isn’t still working on cash in/out).
