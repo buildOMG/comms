@@ -1,10 +1,10 @@
 # OmiseGO AMA 02
 
-**[OmiseGO AMA 02 - October 22, 2018](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/)**
+##**[OmiseGO AMA 02 - October 22, 2018](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/)**
 
 ***
 
-**When can we expect PoA and what's the expected timeframe of testing that, before moving to PoS?​**
+###**When can we expect PoA and what's the expected timeframe of testing that, before moving to PoS?​**
 
 PoA is what’s currently on internal testnet. We’re not giving a specific timeframe for testing - we just test it until we’re done testing it - but we’ll continue to share audit results (as we have already done with the mostly-done Quantstamp audits) and be open about progress.
 
@@ -12,13 +12,13 @@ As for moving to PoS, it’s not really a straight line from PoA to PoS in the w
 
 ***
 
-**​Are the conglomerates still implementing the SDK / ewallet and will these conglomerates be using the PoA chain?​**
+###**​Are the conglomerates still implementing the SDK / ewallet and will these conglomerates be using the PoA chain?​**
 
 Yes and yes. Work with the conglomerates mentioned is going forward as planned; big businesses tend to take their time (for good reason) when adopting new technologies.
 
 ***
 
-​**Has OmiseGO / Omise acquired any exchanges yet?​**
+###​**Has OmiseGO / Omise acquired any exchanges yet?​**
 
 We understand there’s a lot of curiosity around go.exchange so we’ll play along here, but we do need to add the usual caveat that it is a separate subsidiary of Omise Holdings, operating entirely independently and under different regulatory and business/competitive conditions, and as such we can only provide a certain level of insight into their operations. OmiseGO develops business relationships as part of their mandate in order to facilitate adoption of the OMG Network, but OmiseGO isn’t (and won’t be) acquiring exchanges.
 
@@ -26,7 +26,7 @@ As we’ve been informed, Omise Holdings has looked into several acquisitions, a
 
 ***
 
-**​Originally staking was planned to go live in Q2. Later "Q4 and beyond". We are deep in Q4 now yet we don't have even basic info about staking. What is the reason behind this delays and why do you hesitate to provide basic info?**
+###**​Originally staking was planned to go live in Q2. Later "Q4 and beyond". We are deep in Q4 now yet we don't have even basic info about staking. What is the reason behind this delays and why do you hesitate to provide basic info?**
 
 The staking that was planned in Q2 was Honte, which was planned as a Tendermint chain with a significantly simplified version of both the DEX and PoS mechanisms. Plasma staking was never expected to go live in Q2. The roadmap said “Q4 and beyond” for Plasma staking and other milestones because, as we’ve stated before, it’s simply not practical to accurately predict launch dates for multiple parallel developments from 6-9 months out.
 
@@ -36,6 +36,6 @@ We understand that the PoS aspect of OMG is of interest to a lot of people, and 
 
 ***
 
-**Cash in/out. -- Jeremy blogged in december 2017 about the Cash in/out aspect of the project: What is the status on this?**
+###**Cash in/out. -- Jeremy blogged in december 2017 about the Cash in/out aspect of the project: What is the status on this?**
 
 Still in the pipeline but unfortunately nothing we can report. We’re most focused on getting Plasma up and running and eWallet integrated to Ethereum and Plasma, prioritizing work that facilitates volume and liquidity so we can have a healthy functioning market (which doesn’t mean that our business development team isn’t still working on cash in/out).
